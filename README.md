@@ -3,3 +3,4 @@
 
 #Local Repository: là một lại repository nằm trên máy tính của bạn, repository này có nhiêm vụ đồng bộ hóa với remote repository bằng các lệnh của git.
 #Remote Repository: là một loại repository được cài đặt trên server chuyên dụng. Ví dụ như: GitHub, GitLab, Bitbucket,…
+# BTVN-DiemDanh
